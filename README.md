@@ -1,4 +1,3 @@
 # Python-Projects
 Python Projects
-
-Training models for Python 
+Using Various Libraries such as Tkinter,Random, etc. created Games.
